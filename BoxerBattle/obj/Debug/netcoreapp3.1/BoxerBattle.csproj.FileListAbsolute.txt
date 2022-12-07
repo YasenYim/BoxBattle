@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.exe
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.deps.json
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.runtimeconfig.json
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.dll
+E:\Unity\NikoLua\Hello\BoxerBattle\bin\Debug\netcoreapp3.1\BoxerBattle.pdb
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.dll
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.pdb
+E:\Unity\NikoLua\Hello\BoxerBattle\obj\Debug\netcoreapp3.1\BoxerBattle.genruntimeconfig.cache
